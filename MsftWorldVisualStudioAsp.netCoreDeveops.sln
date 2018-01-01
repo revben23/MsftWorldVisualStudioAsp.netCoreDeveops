@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsftWorldVisualStudioAsp.netCoreDeveops", "MsftWorldVisualStudioAsp.netCoreDeveops\MsftWorldVisualStudioAsp.netCoreDeveops.csproj", "{7C025D7B-44B8-47BA-B7A2-C70E43321DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C025D7B-44B8-47BA-B7A2-C70E43321DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C025D7B-44B8-47BA-B7A2-C70E43321DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C025D7B-44B8-47BA-B7A2-C70E43321DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C025D7B-44B8-47BA-B7A2-C70E43321DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18C6BED2-0A6D-460D-9930-8084CC6BB845}
+	EndGlobalSection
+EndGlobal
